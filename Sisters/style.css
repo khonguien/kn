@@ -89,7 +89,7 @@ body {
 
 .envelope-name {
     position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%);
-    color: #ffd700; font-size: 1.5rem; font-weight: bold; text-align: center;
+    color: #ffd700; font-size: 1.rem; font-weight: bold; text-align: center;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.3); z-index: 25; pointer-events: none;
 }
 
@@ -103,11 +103,11 @@ body {
 }
 
 .greeting-title {
-    color: #d32f2f; margin: 0 0 15px 0; font-size: 1.4rem;
+    color: #d32f2f; margin: 0 0 15px 0; font-size: 1.1rem;
     border-bottom: 2px solid #d4af37; padding-bottom: 5px;
 }
 
-.message { font-size: 1rem; color: #333; line-height: 1.6; text-align: justify; }
+.message { font-size: 0.85rem; color: #333; line-height: 1.6; text-align: justify; }
 
 /* --- ANIMATION KEYFRAMES THƯ --- */
 @keyframes slide-out-drop {
