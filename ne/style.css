@@ -103,7 +103,7 @@ body {
 }
 
 .greeting-title {
-    color: #d32f2f; margin: 0 0 15px 0; font-size: 1rem;
+    color: #d32f2f; margin: 0 0 15px 0; font-size: 0.8rem;
     border-bottom: 2px solid #d4af37; padding-bottom: 5px;
 }
 
@@ -148,3 +148,4 @@ body {
     .message { font-size: 0.8rem; }
 
 }
+
